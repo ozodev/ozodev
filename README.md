@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Lara</h1>
-<h3 align="center">A passionate frontend developer from Colombian</h3>
+<h3 align="center">A passionate fullstack junior developer from Colombian</h3>
 
 - 🌱 I’m currently learning **Angular and Flask**
 
