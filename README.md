@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **laracardozojuansebastian@gmail.com**
 
-- 📄 Know about my experiences [Junior](Junior)
+- 📄 Know about my experiences [Middle](Middle)
 
 <h1 align="left">Languages and Tools:</h1>
 <h2>FrontEnd</h2>
